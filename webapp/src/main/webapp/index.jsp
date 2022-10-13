@@ -5,7 +5,7 @@
     <hr>
      
     <label for="Name Sanket"><b>Enter Sanket Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Full Sanket Name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
